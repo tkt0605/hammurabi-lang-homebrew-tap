@@ -1,7 +1,7 @@
 # homebrew-tap/Formula/hb.rb（cargo-dist が自動生成）
 class Hammurabi < Formula
   desc "Logic-first AI-native code generator"
-  homepage "https://github.com/hammurabi-lang/hammurabi"
+  homepage "https://github.com/tkt0605/hammurabi"
   version "0.1.0"
 
   on_macos do
